@@ -10,4 +10,5 @@
 | - Node : Keeps a copy of global transaction ledger and hence each node can verify and audit transactions happening on the network |
 | - Double Spending : Digital Cash scheme in which the same single digital token can be spent more than once |
 | - Decentralization : No single authority or middleman , No downtime as the overall network is running across 1000 nodes , Attack Resistant |
-| - 
+| - What is Web3 ? : Decentralized Internet |
+| - Web1 : Read , Web2 : Read-Write , Web3 : Read-Write-Own |
