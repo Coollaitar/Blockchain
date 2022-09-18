@@ -12,3 +12,7 @@
 | - Decentralization : No single authority or middleman , No downtime as the overall network is running across 1000 nodes , Attack Resistant |
 | - What is Web3 ? : Decentralized Internet |
 | - Web1 : Read , Web2 : Read-Write , Web3 : Read-Write-Own |
+| - What is ETH ? : Ethereum : Decentralized Blockchain |
+| - dApps are buit on Ethereum using Solidity Language |
+| - Deploy smart contracts on Ethereum Networks |
+| -   and PoS |
