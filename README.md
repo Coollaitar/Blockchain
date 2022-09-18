@@ -20,4 +20,5 @@
 | - Smart Contracts : Programmes that are replicated and processes on all the computers on the Ethereum Network |
 | - ERC20 Tokens(Smart Contracts) : People can create their own currencies on Ethereum |
 | ERC721 and ERC1155 Tokens : Just NFT's and provides requirements to meet when creating NFT's | 
-| - 
+| - Which statement best describes Proof of Work? : Miners compete to solve computational puzzles. The winner of this competition gets to add a block to the blockchain |
+| -evel 4 : Crypto Wallets : 
