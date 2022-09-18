@@ -21,4 +21,8 @@
 | - ERC20 Tokens(Smart Contracts) : People can create their own currencies on Ethereum |
 | ERC721 and ERC1155 Tokens : Just NFT's and provides requirements to meet when creating NFT's | 
 | - Which statement best describes Proof of Work? : Miners compete to solve computational puzzles. The winner of this competition gets to add a block to the blockchain |
-| - *Level 4* : Crypto Wallets : 
+| - *Level 4* : Crypto Wallets : Address : Represents your Account address |
+| - Private Keys : Just like Password of your Account or Wallet |
+| - As your private key is decentralised you don't have an option of forgot password so its important to keep your private key safe and secured |
+| - Seed Phrase : Master Password for your Crypto Wallet |
+| - Metamask : Ethereum Wallet |
