@@ -15,4 +15,9 @@
 | - What is ETH ? : Ethereum : Decentralized Blockchain |
 | - dApps are buit on Ethereum using Solidity Language |
 | - Deploy smart contracts on Ethereum Networks |
-| -   and PoS |
+| -  Ethereum Works on PoW(Proof of Work) but in future it will move on PoS(Proof of Stake) |
+| - ETH or Ether : Currency of Ethereum |
+| - Smart Contracts : Programmes that are replicated and processes on all the computers on the Ethereum Network |
+| - ERC20 Tokens(Smart Contracts) : People can create their own currencies on Ethereum |
+| ERC721 and ERC1155 Tokens : Just NFT's and provides requirements to meet when creating NFT's | 
+| - 
