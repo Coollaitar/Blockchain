@@ -27,3 +27,5 @@
 | - As your private key is decentralised you don't have an option of forgot password so its important to keep your private key safe and secured |
 | - Seed Phrase : Master Password for your Crypto Wallet |
 | - Metamask : Ethereum Wallet |
+| - *Level 5* : Remix IDE : Used for writing solidity code and testing , debugging and deploying smart contracts |
+| - Which of the following environments is NOT supported by Remix? : Solana Testnet |
