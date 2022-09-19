@@ -29,3 +29,6 @@
 | - Metamask : Ethereum Wallet |
 | - *Level 5* : Remix IDE : Used for writing solidity code and testing , debugging and deploying smart contracts |
 | - Which of the following environments is NOT supported by Remix? : Solana Testnet |
+| - *Level 6* : Solidity : What is Solidity ? : Used to write smart contracts |
+| - Runs on Ethereum Virtual Machine (EVM) |
+| -  |
