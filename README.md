@@ -1,6 +1,7 @@
 # Blockchain
 ### Notes Taken From LearnWeb3 DAO : https://learnweb3.io/dashboard
 
+<img src="https://i.imgur.com/M9uocHi.png" width="1000" height="550">
 
 | <p align="center"> FRESHMAN🚀 </p> |
 | ------ |
