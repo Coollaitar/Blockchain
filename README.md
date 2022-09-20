@@ -31,4 +31,10 @@
 | - Which of the following environments is NOT supported by Remix? : Solana Testnet |
 | - *Level 6* : Solidity : What is Solidity ? : Used to write smart contracts |
 | - Runs on Ethereum Virtual Machine (EVM) |
-| -  |
+| - Variables and types : Local / State / Global |
+| - Local : Declared inside a function and are not stored on blockchain |
+| - State : Declared outside function and stored on blockchain |
+| - Global : Provides information about the blockchain : Include things like transaction sender , block timestamp, block hash, etc. |
+| - Functions,Loops and If/Else |
+| - Arrays, String : Memory Variable and Storage Variable can be compared with Ram V/s Hardisk |
+| - |
