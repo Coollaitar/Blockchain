@@ -38,3 +38,4 @@
 | - Functions,Loops and If/Else |
 | - Arrays, String : Memory Variable and Storage Variable can be compared with Ram V/s Hardisk |
 | - Build your first dApp with ether.js |
+| - Build your own cryptocurrency using ERC-20 tokens |
