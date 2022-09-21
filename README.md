@@ -39,3 +39,9 @@
 | - Arrays, String : Memory Variable and Storage Variable can be compared with Ram V/s Hardisk |
 | - Build your first dApp with ether.js |
 | - Build your own cryptocurrency using ERC-20 tokens |
+| - Build your own NFT using ERC-721 token |
+
+<img src="https://i.imgur.com/wPCR9Vn.png" width="1000" height="550">
+
+| <p align="center"> SOPHOMORE🏕️ </p> |
+| ------ |
