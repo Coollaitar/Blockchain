@@ -45,3 +45,8 @@
 
 | <p align="center"> SOPHOMORE🏕️ </p> |
 | ------ |
+| - What is Gas ? : Gas is fuel that allows Ethereum to operate, in the same way that a card needs a gaaoline to run |
+| - Gas: General Concepts : Gas unit is used to measure the amount of computational effort required to execute a transaction on Ethereum |
+| - Formula : ```gas fees = gas spent* gas price``` |
+| - Gas Spent is total amount of gas that were used to execute the transaction |
+
