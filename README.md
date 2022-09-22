@@ -47,6 +47,9 @@
 | ------ |
 | - What is Gas ? : Gas is fuel that allows Ethereum to operate, in the same way that a card needs a gaaoline to run |
 | - Gas: General Concepts : Gas unit is used to measure the amount of computational effort required to execute a transaction on Ethereum |
-| - Formula : ```gas fees = gas spent* gas price``` |
+| - Formula : ```gas fees = gas spent* gas price``` (Before London Upgrade) |
 | - Gas Spent is total amount of gas that were used to execute the transaction |
-
+| - New Formula : ```gas fees = gas spent * (base fees + priority fees)``` (After London Upgrade) |
+| - Variable Block Size : Maximum Block Size Limit is ```30M``` |
+| - Better Gas Estimation : minimum ```current base fees * 87.5% ``` Maximum ```current base fees * 112.5%``` |
+| - Gas Fees help keep the Ethereum Network secure |
