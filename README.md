@@ -60,5 +60,6 @@
 | - Chain Selection Rules : ```Fork``` means when two miners produces valid blocks roughly at the same time. This can cause different nodes in the network to include different blocks in their blockchain |
 | - Bitcoin and Ethereum use the ```Longest Chain``` rule to do prevent the splitting of state |
 | - The combination of Longest Chain and Proof of Work rule is known as Nakamoto Consensus |
-| - *Finality* : 
-
+| - *Finality* : (A transaction has Finality on Ethereum when it's part of a block that can't change) It the time you should wait before considering a transaction irreversible |
+| - *The ```Work``` in Proof of Work* : ```HashFunction(dataset, target, nonce, ...) = a number``` |
+| - Higher the mining difficulty the lower the target, and hence the harder it is to find a nonce which satisfies this condition |
