@@ -58,4 +58,7 @@
 | - *What is Consensus ?* : General Agreement about something (Group Decision) |
 | - *Sybil Resistance* : (Basically some hacks done by miners to get more rewards) A Sybil attack is the problem when ine user or group pretends to be many different users |
 | - Chain Selection Rules : ```Fork``` means when two miners produces valid blocks roughly at the same time. This can cause different nodes in the network to include different blocks in their blockchain |
+| - Bitcoin and Ethereum use the ```Longest Chain``` rule to do prevent the splitting of state |
+| - The combination of Longest Chain and Proof of Work rule is known as Nakamoto Consensus |
+| - *Finality* : 
 
