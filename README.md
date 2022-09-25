@@ -54,3 +54,8 @@
 | - Better Gas Estimation : minimum ```current base fees * 87.5% ``` Maximum ```current base fees * 112.5%``` |
 | - Gas Fees help keep the Ethereum Network secure |
 | - *What is Mining ?* : It is the process of creating new blocks of transactions to be added to the Ethereum blockchain network. It also helps keep the network secure from attacks | 
+| - *What is Proof of Work ?*(POW) : (Consensus Protocol) Recently on September 15 2022, the Ethereum Merge completed and Ethereum shifted to a Proof of Stake system |
+| - *What is Consensus ?* : General Agreement about something (Group Decision) |
+| - *Sybil Resistance* : (Basically some hacks done by miners to get more rewards) A Sybil attack is the problem when ine user or group pretends to be many different users |
+| - Chain Selection Rules : ```Fork``` means when two miners produces valid blocks roughly at the same time. This can cause different nodes in the network to include different blocks in their blockchain |
+
