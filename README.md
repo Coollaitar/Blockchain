@@ -63,3 +63,4 @@
 | - *Finality* : (A transaction has Finality on Ethereum when it's part of a block that can't change) It the time you should wait before considering a transaction irreversible |
 | - *The ```Work``` in Proof of Work* : ```HashFunction(dataset, target, nonce, ...) = a number``` |
 | - Higher the mining difficulty the lower the target, and hence the harder it is to find a nonce which satisfies this condition |
+| - *Ethereum Virtual Machine (EVM)* : 
