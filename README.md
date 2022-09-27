@@ -63,4 +63,6 @@
 | - *Finality* : (A transaction has Finality on Ethereum when it's part of a block that can't change) It the time you should wait before considering a transaction irreversible |
 | - *The ```Work``` in Proof of Work* : ```HashFunction(dataset, target, nonce, ...) = a number``` |
 | - Higher the mining difficulty the lower the target, and hence the harder it is to find a nonce which satisfies this condition |
-| - *Ethereum Virtual Machine (EVM)* : 
+| - *Ethereum Virtual Machine (EVM)* : Instead of a distributed ledger, Ethereum can be described as a distributed ```state machine```. A state machine is essentially any machine that can change from one state to another in response to certain inputs |
+| - *Ethereum State Transition* : Y(S,T) = S^ (S: old valid state, T: new set of valid transactions, S^: new valid state produced) |
+
