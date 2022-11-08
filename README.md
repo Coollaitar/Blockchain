@@ -71,3 +71,11 @@
 | - We can also create nested mappings, where the `key` points to a secomd nested mapping. |
 | - For eg: ```mapping(address => mapping(unit => bool)) public nestedMap``` |
 | - 2. Enums : Enums stands for Enumerable. They are commonly used to restrict a variable to only have one of a few predefined values. They are internally represented as `uint` |
+| - 3. Structs : Used to create custom `datatypes` |
+| - 4. View and Pure Functions : Getter Functions (those which return values) can be declared either `view` or `pure` |
+| - Difference between View and Pure is that View promises not to modify the state but can read state whereas Pure promises not to modify or read from state | 
+| - 5. Function Modifiers : Commonly used for restricting access to certain functions, protecting against certain types of attacks,etc. |
+| - Eg: To check whether the function caller is owner or not we can declare a modifier(`owner=msg.sender`) and just add it after`()` the name of modifier |
+| - 6. Events : Events allows contracts to perform logging on the Ethereum blockchain. Logs for a given contract can be parsed later to perform updates on the frontend interface. |
+| - Commonly used to allowed frontend interfaces to listen for specific events and update the user interface or used as `cheap form of storage` |
+
