@@ -83,5 +83,12 @@
 | - **IMPORTANT** : 1. A parent contract which has a function that can be overridden by a child contract muste be declared as a `virtual` function |
 | - **IMPORTANT** : 2. A child contract that is going to override a parent function must use the `override` keyword |
 | - `super.foo()` if the function name is foo() and it is inherited for eg:`contract E is C,B {function foo () public pure override (C,B) returns (string memory) {return super.foo();}}` this will return the `Right-Most parent with function foo();` |
-| - 9. Transferring ETH : **Recommended Way** : To transfer ETH from a contract is to use the `call` function. The `call` function return `bool` indicating success or failure of transfer | 
+| - 9. Transferring ETH : **Recommended Way** : To transfer ETH from a contract is to use the `call` function. The `call` function return `bool` indicating success or failure of transfer |  
+| - **How to receive Ether in a contract ?** |
+| - 1. `recieve() external payable` `recieve` is called if `msg.data` is an empty value otherwise `fallback` is used |
+| - 2. `fallback() external payable` | 
+| - 10. Calling External Contracts : For eg: `import "./Foo.sol";` |
+| - 11. Solidity Libraries : Libraries cannot contain any `state` variables, and cannot transfer ETH | 
+
+
 
