@@ -1,5 +1,5 @@
 # Blockchain
-### 🔗Notes Taken From LearnWeb3 DAO : https://learnweb3.io/dashboard <img src="https://media.tenor.com/UTxZPwKlNNIAAAAi/ethereum-ethereum-crypto.gif" width="40" height="40" />
+### 🔗Notes Taken From LearnWeb3 DAO : https://learnweb3.io/dashboard <img src="https://media.tenor.com/UTxZPwKlNNIAAAAi/ethereum-ethereum-crypto.gif" width="60" height="60" />
 
 <img src="https://i.imgur.com/M9uocHi.png" width="1000" height="550">
 
