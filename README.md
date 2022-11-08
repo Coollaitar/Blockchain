@@ -78,4 +78,8 @@
 | - Eg: To check whether the function caller is owner or not we can declare a modifier(`owner=msg.sender`) and just add it after`()` the name of modifier |
 | - 6. Events : Events allows contracts to perform logging on the Ethereum blockchain. Logs for a given contract can be parsed later to perform updates on the frontend interface. |
 | - Commonly used to allowed frontend interfaces to listen for specific events and update the user interface or used as `cheap form of storage` |
-
+| - 7. Constructors : Optional Function : Also pass arguements to constructors | 
+| - 8. Inheritance : Contracts can `inherit` other contract by using `is` keyword | 
+| - **IMPORTANT** : 1. A parent contract which has a function that can be overridden by a child contract muste be declared as a `virtual` function |
+| - **IMPORTANT** : 2. A child contract that is going to override a parent function must use the `override` keyword |
+| - `super.foo()` if the function name is foo() and it is inherited for eg:`contract E is C,B {function foo () public pure override (C,B) returns (string memory) {return super.foo();}}` this will return the `Right-Most parent with function foo();` |
