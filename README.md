@@ -89,6 +89,17 @@
 | - 2. `fallback() external payable` | 
 | - 10. Calling External Contracts : For eg: `import "./Foo.sol";` |
 | - 11. Solidity Libraries : Libraries cannot contain any `state` variables, and cannot transfer ETH | 
+| - **Providers, Signers, ABIs, and Approval Flows** |
+| -  **Providers and Signers** : 1. A `Provider` is an Ethereum node connection that allows you to read data from its `state`. You will use a `provider` to do things like calling read-only functions in smart contracts, fetching `balances` of accounts, fetching transaction details, etc | 
+| - 2. A `Signer` is an Ethereum node connection that allows you to write data to the blockchain. Use a `Signer` for calling `write` functions in smart contracts, transferring ETH between accounts,etc. |
+| `Signer` *Example* : When a dApp attempts to send a transaction to the blockchain, the Metamask window pops up asking the user to confirm the action. | 
+| - **BigNumbers** : `BigNumber` is a custom class library, written in Javascript, that introduces it's own functions for mathematical functions - `BigNumber` has a significantly larger capacity for numbers than what Javascript can natively support |
+| - When we are working with `BigNumber` we need to use it's mathematical functions like `.add()`, `.mul()` |
+| - **ABI (Application Binary Interfaces)** :  `ABI` contains `rules and metadata` about functions present in contract, which help in doing the proper data conversion back and forth | 
+| - **ERC20 Approval Flow** : Safer way to pull tokens out of someones's account |
+| - `approve(address spender , uint256 amount)` This allows user to `approve` a different address to spend up to `amount` tokens on their behalf. i.e This function provides an *Allowance* to the `spender` of up to `amount` |
+| - **Please Read the Example Provided by LearnWeb3DAO to clear the concept more** |
+
 
 
 
