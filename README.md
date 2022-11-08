@@ -84,4 +84,4 @@
 | - **IMPORTANT** : 2. A child contract that is going to override a parent function must use the `override` keyword |
 | - `super.foo()` if the function name is foo() and it is inherited for eg:`contract E is C,B {function foo () public pure override (C,B) returns (string memory) {return super.foo();}}` this will return the `Right-Most parent with function foo();` |
 | - 9. Transferring ETH : **Recommended Way** : To transfer ETH from a contract is to use the `call` function. The `call` function return `bool` indicating success or failure of transfer | 
-| - **How to receive Ether in a contract ?**
+
