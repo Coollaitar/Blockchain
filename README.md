@@ -99,6 +99,7 @@
 | - **ERC20 Approval Flow** : Safer way to pull tokens out of someones's account |
 | - `approve(address spender , uint256 amount)` This allows user to `approve` a different address to spend up to `amount` tokens on their behalf. i.e This function provides an *Allowance* to the `spender` of up to `amount` |
 | - **Please Read the Example Provided by LearnWeb3DAO to clear the concept more** |
+| - keccak256->hash->uint->%100->random numbers |
 
 
 
